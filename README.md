@@ -1,5 +1,3 @@
-# crowd_counting_tensorflow
-
 # Single Image crowd counting using Multi-Column CNN.
 This is unofficial and very simple implementation of the CVPR 2016 paper on crowd counting "Single-image crowd counting via multi-column convolutional neural network".
 Full code is developed on Tensorflow platform. 
