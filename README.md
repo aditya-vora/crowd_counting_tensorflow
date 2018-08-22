@@ -6,7 +6,7 @@ Full code is developed on Tensorflow platform.
 1) Install Tensorflow
 2) Clone this repository
   ```Shell
-  git clone https://github.com/AadityaVora/crowd_counting_tensorflow.git
+  git clone https://github.com/aditya-vora/crowd_counting_tensorflow.git
   ```
 3) Download the dataset and keep it in the $ROOT/data folder
 4) The dataset can be downloaded from: 
