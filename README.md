@@ -17,7 +17,7 @@ Full code is developed on Tensorflow platform.
 5) Train the model using $ROOT/train.py
 6) Test the model
 
-**Note:** More details about the results would be updated.
+**Note:** More details about the results and some other code files for data parsing will be updated soon.
 
 **Citations:**
 
