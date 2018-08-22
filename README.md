@@ -19,4 +19,5 @@ Full code is developed on Tensorflow platform.
 **Note:** More details about the results would be updated.
 
 **Citations:**
+
 [1] Zhang, Yingying, et al. "Single-image crowd counting via multi-column convolutional neural network." Proceedings of the         IEEE conference on computer vision and pattern recognition. 2016.
