@@ -10,6 +10,7 @@ Full code is developed on Tensorflow platform.
   ```
 3) Download the dataset and keep it in the $ROOT/data folder
 4) The dataset can be downloaded from: 
+
     Dropbox:   https://www.dropbox.com/s/fipgjqxl7uj8hd5/ShanghaiTech.zip?dl=0
     
     Baidu Disk: http://pan.baidu.com/s/1nuAYslz
