@@ -16,4 +16,13 @@ Full code is developed on Tensorflow platform.
 5) Train the model using $ROOT/train.py
 6) Test the model
 
-Note: More details about the results would be updated.
+**Note:** More details about the results would be updated.
+
+**Citations:**
+@inproceedings{zhang2016single,
+  title={Single-image crowd counting via multi-column convolutional neural network},
+  author={Zhang, Yingying and Zhou, Desen and Chen, Siqin and Gao, Shenghua and Ma, Yi},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={589--597},
+  year={2016}
+}
